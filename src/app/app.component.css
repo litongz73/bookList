@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  width: 100%;
+  align-items: stretch;
+}
+
+.item {
+  width: 50%;
+  border-right: 1px solid grey;
+}

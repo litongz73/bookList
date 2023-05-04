@@ -1,0 +1,15 @@
+.container {
+  height: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+button {
+  background-color: rgb(60, 145, 230);
+  color: white;
+  border: none;
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  float: right;
+}
